@@ -22,12 +22,12 @@ So that customers who are not in the city can buy goods from the supermarket. Af
 3. Import the uuid package to use in memu=create transaction id.
 4. Create a Transaction class that has ID and Order properties
 5. Create various methods from the class, namely:
-  - Add_item() method to add a new item.
-  - Update_item_name(), update_item_qty() and update_item_price() methods to update item details.
-  - Method delete_item() to delete items.
-  - Method reset_transaction to delete all items in the transaction.
-  - Method check_order to check the format of the items that have been entered by the user.
-  - Total_price method to calculate the total price.
+    - Add_item() method to add a new item.
+    - Update_item_name(), update_item_qty() and update_item_price() methods to update item details.
+    - Method delete_item() to delete items.
+    - Method reset_transaction to delete all items in the transaction.
+    - Method check_order to check the format of the items that have been entered by the user.
+    - Total_price method to calculate the total price.
 
 ![transaction_class](https://user-images.githubusercontent.com/79896604/212534776-139ae6b9-9f53-4df3-9445-3ec2671d4de7.jpeg)    
 
