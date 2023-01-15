@@ -29,7 +29,7 @@ So that customers who are not in the city can buy goods from the supermarket. Af
     - Method check_order to check the format of the items that have been entered by the user.
     - Total_price method to calculate the total price.
 
-![transaction_class](https://user-images.githubusercontent.com/79896604/212534776-139ae6b9-9f53-4df3-9445-3ec2671d4de7.jpeg)    
+    ![transaction_class](https://user-images.githubusercontent.com/79896604/212534776-139ae6b9-9f53-4df3-9445-3ec2671d4de7.jpeg)    
 
 6. Create the main application file, namely 'cashier.py' outside the module folder
 7. Import the 'transaction.py' module into the 'cashier.py' file.
