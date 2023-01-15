@@ -28,10 +28,12 @@ So that customers who are not in the city can buy goods from the supermarket. Af
     - Method reset_transaction to delete all items in the transaction.
     - Method check_order to check the format of the items that have been entered by the user.
     - Total_price method to calculate the total price
+    [[https://github.com/rizkiajimahardika/super_cashier/blob/main/public/images/transaction_class.png]]
 6. Create the main application file, namely 'cashier.py' outside the module folder
 7. Import the 'transaction.py' module into the 'cashier.py' file.
 8. Create a 'test_case' object from Class Transaction().
 9. Run all test cases.
+[[https://github.com/rizkiajimahardika/super_cashier/blob/main/public/images/flowchart.png]]
 
 ## Test Case Results
 ### Test 1
