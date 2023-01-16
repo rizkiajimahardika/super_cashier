@@ -40,15 +40,23 @@ So that customers who are not in the city can buy goods from the supermarket. Af
 
 ## Test Case Results
 ### Test 1
+Add items
 ![111](https://user-images.githubusercontent.com/79896604/212711630-08c220eb-3697-4cbb-acfa-cbc582a3f403.png)
 
 
 ### Test 2
 Delete an item from the transaction
+![222](https://user-images.githubusercontent.com/79896604/212713831-2dcca700-2e31-4c8f-825d-adc68a24f891.png)
+
 
 ### Test 3
 Reset the transaction
+![333](https://user-images.githubusercontent.com/79896604/212713855-7fe00d91-defd-4955-97b3-7ce4b451639d.png)
+
 ### Test 4
 Count the total price
+![4444](https://user-images.githubusercontent.com/79896604/212713874-568c9d94-3500-495e-84cc-5e1b1f5a41a6.png)
+
 
 ## Conclusion
+The super cashier program can run well in the python programming language. In this super cashier program, there is one class, namely transaction which holds several methods such as add_item, update_item, delete_item, and others. In addition, there is a feature to calculate discounts if the customer has a total purchase according to the terms and conditions that apply.
